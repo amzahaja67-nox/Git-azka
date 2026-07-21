@@ -1,6 +1,6 @@
-# ✨ Filter - Simple Python Filter Tool
+# ✨ Git azka - Coding Simple Python Filter Tool
 
-Yo, ini tuh tool filter simpel buat ngolah data pake Python. No ribet, sat-set jadi. 🤙
+tool filter simpel pake Python. No ribet, sat-set jadi. 
 
 ## 🚀 Fitur
 - ⚡ Filter data ngebut, anti lemot
@@ -11,4 +11,4 @@ Yo, ini tuh tool filter simpel buat ngolah data pake Python. No ribet, sat-set j
 Jangan lupa install python dulu ya ges.
 
 ```bash
-python filter.py
+python 3.11 64bit
