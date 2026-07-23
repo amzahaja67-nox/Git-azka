@@ -1,14 +1,17 @@
-# ✨ Git azka - Coding Simple Python Filter Tool
+# Git Azka - Python Filter Tool
 
-tool filter simpel pake Python. No ribet, sat-set jadi. 
+A simple and lightweight Python tool for data filtering.
 
-## 🚀 Fitur
-- ⚡ Filter data ngebut, anti lemot
-- 🧠 Kodingan clean & gampang dipahami, pemula friendly
-- 🐍 Pure Python, tinggal run
+## Features
+- Fast data filtering
+- Clean and readable codebase
+- Pure Python, no external dependencies
+- Beginner friendly
 
-## 📦 Cara Pakai
-Jangan lupa install python dulu ya ges.
+## Requirements
+- Python 3.11 or higher
 
+## Installation
 ```bash
-python 3.11 64bit
+git clone https://github.com/username/git-azka.git
+cd git-azka
